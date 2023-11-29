@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mynurockstar82@gmail.com**
 
-- 📄 Know about my experiences(Resume)
+- 📄 Resume
 [https://shaik-mynuddin-portfolio.netlify.app/assets/resume-example.pdf](https://shaik-mynuddin-portfolio.netlify.app/assets/resume-example.pdf)
 
 - ⚡ Fun fact **I'm Foodie**
