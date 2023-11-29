@@ -1,6 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
-)](https://rishavchanda.io
-)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://shaik-mynuddin-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shaik Mynuddin</h1>
 <h3 align="center">Enthusiastic and detail-oriented Computer Science graduate with a solid foundation in programming,
     algorithms, and problem-solving. Eager to contribute my technical skills and innovative mindset to a dynamic team in
