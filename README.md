@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **MERN, problem solving**
 
-- 📫 How to reach me **mynurockstar82@gmail.com**
+- 📫 How to reach me **mynuddinshaik82@gmail.com**
 
 - 📄 Resume
 [https://shaik-mynuddin-portfolio.netlify.app/assets/resume-example.pdf](https://shaik-mynuddin-portfolio.netlify.app/assets/resume-example.pdf)
